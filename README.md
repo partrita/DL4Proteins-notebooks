@@ -18,16 +18,16 @@ DL4Proteins 노트북 시리즈의 목표는 단백질 설계 및 예측을 위�
 **그림과 질문이 올바르게 표시되도록 Colab 노트북을 라이트 모드(light mode)로 설정해 주세요.**
 
 ### 목차
-### [챕터 1: NumPy를 활용한 신경망](https://colab.research.google.com/github/Graylab/DL4Proteins-notebooks/blob/main/notebooks/WS01_NeuralNetworksWithNumpy.ipynb)
-### [챕터 2: PyTorch를 활용한 신경망](https://colab.research.google.com/github/Graylab/DL4Proteins-notebooks/blob/main/notebooks/WS02_NeuralNetworksWithPyTorch.ipynb)
-### [챕터 3: 합성곱 신경망 (CNN)](https://colab.research.google.com/github/Graylab/DL4Proteins-notebooks/blob/main/notebooks/WS03_ConvolutionalNeuralNetworks.ipynb)
-### [챕터 4: 셰익스피어와 단백질을 위한 언어 모델](https://colab.research.google.com/github/Graylab/DL4Proteins-notebooks/blob/main/notebooks/WS04_LMsForShakespeareAndProteins.ipynb)
-### [챕터 5: 언어 모델 임베딩과 다운스트림 태스크를 위한 전이 학습](https://colab.research.google.com/github/Graylab/DL4Proteins-notebooks/blob/main/notebooks/WS05_LanguageModelEmbeddingsTransferLearningForDownstreamTask.ipynb)
-### [챕터 6: AlphaFold 소개](https://colab.research.google.com/github/Graylab/DL4Proteins-notebooks/blob/main/notebooks/WS06_IntroductionToAF.ipynb)
-### [챕터 7: 단백질을 위한 그래프 신경망 (GNN)](https://colab.research.google.com/github/Graylab/DL4Proteins-notebooks/blob/main/notebooks/WS07_GNNsForProteins.ipynb)
-### [챕터 8: 디노이징 확산 확률 모델 (DDPM)](https://colab.research.google.com/github/Graylab/DL4Proteins-notebooks/blob/main/notebooks/WS08_DenoisingDiffusionProbabilisticModels.ipynb)
-### [챕터 9: 종합 - RFDiffusion에서 ProteinMPNN, AlphaFold까지](https://colab.research.google.com/github/Graylab/DL4Proteins-notebooks/blob/main/notebooks/WS09_PuttingItAllTogether_DesigningProteins.ipynb)
-### [챕터 10: RFDiffusion 소개 - All Atom](https://colab.research.google.com/github/Graylab/DL4Proteins-notebooks/blob/main/notebooks/WS10_RFDiffusion_AllAtom.ipynb)
+### [챕터 1: NumPy를 활용한 신경망](notebooks/WS01_NeuralNetworksWithNumpy.ipynb)
+### [챕터 2: PyTorch를 활용한 신경망](notebooks/WS02_NeuralNetworksWithPyTorch.ipynb)
+### [챕터 3: 합성곱 신경망 (CNN)](notebooks/WS03_ConvolutionalNeuralNetworks.ipynb)
+### [챕터 4: 셰익스피어와 단백질을 위한 언어 모델](notebooks/WS04_LMsForShakespeareAndProteins.ipynb)
+### [챕터 5: 언어 모델 임베딩과 다운스트림 태스크를 위한 전이 학습](notebooks/WS05_LanguageModelEmbeddingsTransferLearningForDownstreamTask.ipynb)
+### [챕터 6: AlphaFold 소개](notebooks/WS06_IntroductionToAF.ipynb)
+### [챕터 7: 단백질을 위한 그래프 신경망 (GNN)](notebooks/WS07_GNNsForProteins.ipynb)
+### [챕터 8: 디노이징 확산 확률 모델 (DDPM)](notebooks/WS08_DenoisingDiffusionProbabilisticModels.ipynb)
+### [챕터 9: 종합 - RFDiffusion에서 ProteinMPNN, AlphaFold까지](notebooks/WS09_PuttingItAllTogether_DesigningProteins.ipynb)
+### [챕터 10: RFDiffusion 소개 - All Atom](notebooks/WS10_RFDiffusion_AllAtom.ipynb)
 
 문제가 발생하면 [Issues 탭](https://github.com/Graylab/DL4Proteins-notebooks/issues)에 남겨주세요. 이 리포지토리는 지속적으로 피드백을 반영하며 업데이트되고 있습니다!
 

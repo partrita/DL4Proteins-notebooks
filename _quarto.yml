@@ -6,7 +6,7 @@ website:
   title: "DL4Proteins-notebooks"
   navbar:
     left:
-      - href: README.md
+      - href: index.qmd
         text: Home
   sidebar:
     style: "docked"
