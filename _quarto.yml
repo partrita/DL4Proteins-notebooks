@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "DL4Proteins-notebooks"
+  navbar:
+    left:
+      - href: README.md
+        text: Home
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - text: "Notebooks"
+        items:
+          - notebooks/WS01_NeuralNetworksWithNumpy.ipynb
+          - notebooks/WS02_NeuralNetworksWithPyTorch.ipynb
+          - notebooks/WS03_ConvolutionalNeuralNetworks.ipynb
+          - notebooks/WS04_LMsForShakespeareAndProteins.ipynb
+          - notebooks/WS05_LanguageModelEmbeddingsTransferLearningForDownstreamTask.ipynb
+          - notebooks/WS06_IntroductionToAF.ipynb
+          - notebooks/WS07_GNNsForProteins.ipynb
+          - notebooks/WS08_DenoisingDiffusionProbabilisticModels.ipynb
+          - notebooks/WS09_PuttingItAllTogether_DesigningProteins.ipynb
+          - notebooks/WS10_RFDiffusion_AllAtom.ipynb
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    code-fold: true
+
+execute:
+  freeze: auto
